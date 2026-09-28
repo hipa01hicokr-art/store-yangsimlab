@@ -1,0 +1,130 @@
+[
+ {
+  "title": "상가화재보험",
+  "slug": "store-fire"
+ },
+ {
+  "title": "쇼핑몰화재보험",
+  "slug": "shopping-mall"
+ },
+ {
+  "title": "판매점화재보험",
+  "slug": "retail-store"
+ },
+ {
+  "title": "사무실화재보험",
+  "slug": "office"
+ },
+ {
+  "title": "오피스텔화재보험",
+  "slug": "officetel"
+ },
+ {
+  "title": "학원화재보험",
+  "slug": "academy"
+ },
+ {
+  "title": "스터디카페화재보험",
+  "slug": "study-cafe"
+ },
+ {
+  "title": "세탁소화재보험",
+  "slug": "laundry"
+ },
+ {
+  "title": "음식점화재보험",
+  "slug": "restaurant"
+ },
+ {
+  "title": "식당화재보험",
+  "slug": "eatery"
+ },
+ {
+  "title": "분식점화재보험",
+  "slug": "snack-bar"
+ },
+ {
+  "title": "카페화재보험",
+  "slug": "cafe"
+ },
+ {
+  "title": "커피숍화재보험",
+  "slug": "coffee-shop"
+ },
+ {
+  "title": "술집화재보험",
+  "slug": "pub"
+ },
+ {
+  "title": "유흥주점화재보험",
+  "slug": "entertainment-bar"
+ },
+ {
+  "title": "노래방화재보험",
+  "slug": "karaoke"
+ },
+ {
+  "title": "헬스장화재보험",
+  "slug": "fitness"
+ },
+ {
+  "title": "필라테스화재보험",
+  "slug": "pilates"
+ },
+ {
+  "title": "요가원화재보험",
+  "slug": "yoga"
+ },
+ {
+  "title": "체육관화재보험",
+  "slug": "gym"
+ },
+ {
+  "title": "태권도장화재보험",
+  "slug": "taekwondo"
+ },
+ {
+  "title": "피부관리실화재보험",
+  "slug": "skin-care"
+ },
+ {
+  "title": "미용실화재보험",
+  "slug": "hair-salon"
+ },
+ {
+  "title": "사격장화재보험",
+  "slug": "shooting-range"
+ },
+ {
+  "title": "PC방화재보험",
+  "slug": "pc-bang"
+ },
+ {
+  "title": "공연장화재보험",
+  "slug": "performance-hall"
+ },
+ {
+  "title": "주유소화재보험",
+  "slug": "gas-station"
+ },
+ {
+  "title": "목욕탕화재보험",
+  "slug": "bathhouse"
+ },
+ {
+  "title": "카센터화재보험",
+  "slug": "car-center"
+ },
+ {
+  "title": "세차장화재보험",
+  "slug": "car-wash"
+ },
+ {
+  "title": "모텔화재보험",
+  "slug": "motel"
+ },
+ {
+  "title": "펜션화재보험",
+  "slug": "pension"
+ }
+]
