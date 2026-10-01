@@ -126,5 +126,41 @@
  {
   "title": "펜션화재보험",
   "slug": "pension"
+ },
+ {
+  "title": "가게화재보험",
+  "slug": "neighborhood-shop"
+ },
+ {
+  "title": "매장화재보험",
+  "slug": "shop"
+ },
+ {
+  "title": "일반음식점화재보험",
+  "slug": "general-restaurant"
+ },
+ {
+  "title": "네일샵화재보험",
+  "slug": "nail-shop"
+ },
+ {
+  "title": "약국화재보험",
+  "slug": "pharmacy"
+ },
+ {
+  "title": "빌라화재보험",
+  "slug": "villa"
+ },
+ {
+  "title": "다가구주택화재보험",
+  "slug": "multi-household"
+ },
+ {
+  "title": "다세대주택화재보험",
+  "slug": "multi-unit"
+ },
+ {
+  "title": "숙박업소화재보험",
+  "slug": "lodging"
  }
 ]
