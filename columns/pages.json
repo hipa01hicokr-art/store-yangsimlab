@@ -162,5 +162,25 @@
  {
   "title": "숙박업소화재보험",
   "slug": "lodging"
+ },
+ {
+  "title": "음식물배상책임보험",
+  "slug": "food-liability"
+ },
+ {
+  "title": "임차자배상책임보험",
+  "slug": "lessee-liability"
+ },
+ {
+  "title": "임대인배상책임보험",
+  "slug": "landlord-liability"
+ },
+ {
+  "title": "아파트화재보험",
+  "slug": "apartment-fire"
+ },
+ {
+  "title": "전시장화재보험",
+  "slug": "exhibition-hall"
  }
 ]
