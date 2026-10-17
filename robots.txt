@@ -1,3 +1,4 @@
+#DaumWebMasterTool:dc6e8e78e32fb6371f5d9657aa5901c0be2c6f52ad10e2dc16fa2286921bb2f2:nmRPv+AMqgHpYd33WRjhZA==
 # 모든 검색엔진과 AI 검색 수집기의 수집을 허용합니다.
 User-agent: *
 Allow: /
