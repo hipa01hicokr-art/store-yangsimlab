@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://store.yangsimlab.com/</loc><lastmod>2026-11-08</lastmod>
+  <url><loc>https://store.yangsimlab.com/</loc><lastmod>2026-11-12</lastmod>
     <image:image><image:loc>https://store.yangsimlab.com/assets/og/home.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/home-1.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/home-2.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/home-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/home-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/home-5.jpg</image:loc></image:image></url>
-  <url><loc>https://store.yangsimlab.com/columns/</loc><lastmod>2026-11-08</lastmod>
+  <url><loc>https://store.yangsimlab.com/columns/</loc><lastmod>2026-11-12</lastmod>
     <image:image><image:loc>https://store.yangsimlab.com/assets/og/columns.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-mgf.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-book.jpg</image:loc></image:image>
@@ -413,6 +413,13 @@
     <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-column.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-1.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-2.jpg</image:loc></image:image></url>
-  <url><loc>https://store.yangsimlab.com/about/</loc><lastmod>2026-11-08</lastmod>
+  <url><loc>https://store.yangsimlab.com/columns/body-scrub-shop/</loc><lastmod>2026-11-12</lastmod>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/og/col-body-scrub-shop.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-mgf.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-book.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-column.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-2.jpg</image:loc></image:image></url>
+  <url><loc>https://store.yangsimlab.com/about/</loc><lastmod>2026-11-12</lastmod>
     <image:image><image:loc>https://store.yangsimlab.com/assets/og/about.jpg</image:loc></image:image></url>
 </urlset>
