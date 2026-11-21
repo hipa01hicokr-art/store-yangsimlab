@@ -234,5 +234,25 @@
  {
   "title": "상가보험",
   "slug": "store-insurance"
+ },
+ {
+  "title": "시설소유자배상책임보험",
+  "slug": "facility-owner-liability"
+ },
+ {
+  "title": "가스사고배상책임보험",
+  "slug": "gas-accident-liability"
+ },
+ {
+  "title": "다중이용업소화재보험",
+  "slug": "multi-use-fire"
+ },
+ {
+  "title": "상가건물화재보험",
+  "slug": "commercial-building-fire"
+ },
+ {
+  "title": "임차인화재보험",
+  "slug": "tenant-fire"
  }
 ]

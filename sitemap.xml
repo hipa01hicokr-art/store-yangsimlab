@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://store.yangsimlab.com/</loc><lastmod>2026-11-14</lastmod>
+  <url><loc>https://store.yangsimlab.com/</loc><lastmod>2026-11-21</lastmod>
     <image:image><image:loc>https://store.yangsimlab.com/assets/og/home.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/home-1.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/home-2.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/home-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/home-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/home-5.jpg</image:loc></image:image></url>
-  <url><loc>https://store.yangsimlab.com/columns/</loc><lastmod>2026-11-14</lastmod>
+  <url><loc>https://store.yangsimlab.com/columns/</loc><lastmod>2026-11-21</lastmod>
     <image:image><image:loc>https://store.yangsimlab.com/assets/og/columns.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-mgf.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-book.jpg</image:loc></image:image>
@@ -35,7 +35,7 @@
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-retail-store-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-retail-store-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-retail-store-5.jpg</image:loc></image:image></url>
-  <url><loc>https://store.yangsimlab.com/columns/office/</loc><lastmod>2026-10-25</lastmod>
+  <url><loc>https://store.yangsimlab.com/columns/office/</loc><lastmod>2026-11-21</lastmod>
     <image:image><image:loc>https://store.yangsimlab.com/assets/og/col-office.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-office-1.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-office-2.jpg</image:loc></image:image>
@@ -77,7 +77,7 @@
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-restaurant-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-restaurant-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-restaurant-5.jpg</image:loc></image:image></url>
-  <url><loc>https://store.yangsimlab.com/columns/eatery/</loc><lastmod>2026-10-25</lastmod>
+  <url><loc>https://store.yangsimlab.com/columns/eatery/</loc><lastmod>2026-11-21</lastmod>
     <image:image><image:loc>https://store.yangsimlab.com/assets/og/col-eatery.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-eatery-1.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-eatery-2.jpg</image:loc></image:image>
@@ -168,7 +168,7 @@
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-skin-care-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-skin-care-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-skin-care-5.jpg</image:loc></image:image></url>
-  <url><loc>https://store.yangsimlab.com/columns/hair-salon/</loc><lastmod>2026-10-25</lastmod>
+  <url><loc>https://store.yangsimlab.com/columns/hair-salon/</loc><lastmod>2026-11-21</lastmod>
     <image:image><image:loc>https://store.yangsimlab.com/assets/og/col-hair-salon.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-hair-salon-1.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/trust/columns-hair-salon-2.jpg</image:loc></image:image>
@@ -427,6 +427,41 @@
     <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-column.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-1.jpg</image:loc></image:image>
     <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-2.jpg</image:loc></image:image></url>
-  <url><loc>https://store.yangsimlab.com/about/</loc><lastmod>2026-11-14</lastmod>
+  <url><loc>https://store.yangsimlab.com/columns/facility-owner-liability/</loc><lastmod>2026-11-21</lastmod>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/og/col-facility-owner-liability.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-mgf.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-book.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-column.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-2.jpg</image:loc></image:image></url>
+  <url><loc>https://store.yangsimlab.com/columns/gas-accident-liability/</loc><lastmod>2026-11-21</lastmod>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/og/col-gas-accident-liability.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-mgf.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-book.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-column.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-2.jpg</image:loc></image:image></url>
+  <url><loc>https://store.yangsimlab.com/columns/multi-use-fire/</loc><lastmod>2026-11-21</lastmod>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/og/col-multi-use-fire.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-mgf.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-book.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-column.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-2.jpg</image:loc></image:image></url>
+  <url><loc>https://store.yangsimlab.com/columns/commercial-building-fire/</loc><lastmod>2026-11-21</lastmod>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/og/col-commercial-building-fire.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-mgf.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-book.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-column.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-2.jpg</image:loc></image:image></url>
+  <url><loc>https://store.yangsimlab.com/columns/tenant-fire/</loc><lastmod>2026-11-21</lastmod>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/og/col-tenant-fire.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-mgf.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-book.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-column.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://store.yangsimlab.com/assets/img/trust-referral-2.jpg</image:loc></image:image></url>
+  <url><loc>https://store.yangsimlab.com/about/</loc><lastmod>2026-11-21</lastmod>
     <image:image><image:loc>https://store.yangsimlab.com/assets/og/about.jpg</image:loc></image:image></url>
 </urlset>
