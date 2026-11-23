@@ -710,7 +710,7 @@ URL: https://store.yangsimlab.com/columns/academy/
 ## 스터디카페화재보험
 
 URL: https://store.yangsimlab.com/columns/study-cafe/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 스터디카페화재보험, 무인·야간 운영의 화재 위험과 독서실과 다른 법적 위치, 의무보험이 따라오지 않는 이유를 정리했어요. 야간 점검표로 매장을 확인해 보세요.
 
 전문가 칼럼 · 무인 운영
@@ -755,7 +755,7 @@ URL: https://store.yangsimlab.com/columns/study-cafe/
 ## 세탁소화재보험
 
 URL: https://store.yangsimlab.com/columns/laundry/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 세탁소화재보험, 건조기 보풀과 드라이클리닝 설비의 불씨, 손님이 맡긴 옷이 탔을 때의 배상 기준과 인수증의 역할을 정리했습니다. 보관 중인 옷의 담보를 확인해 보세요.
 
 전문가 칼럼 · 맡긴 옷
@@ -912,7 +912,7 @@ URL: https://store.yangsimlab.com/columns/eatery/
 ## 분식점화재보험
 
 URL: https://store.yangsimlab.com/columns/snack-bar/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 분식점화재보험, 물로 끄면 안 되는 튀김 기름 불과 K급 소화기, 벽을 맞댄 작은 점포의 이웃 배상 문제를 정리했다. 마감 전 점검표로 확인해 보자.
 
 전문가 칼럼 · 튀김기·소형 점포
@@ -1007,7 +1007,7 @@ URL: https://store.yangsimlab.com/columns/cafe/
 ## 커피숍화재보험
 
 URL: https://store.yangsimlab.com/columns/coffee-shop/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 커피숍화재보험, 로스터 채프와 배기 연통, 에스프레소 머신 전원, 밤새 도는 제빙기까지 설비별 불씨와 보험 확인점을 표로 정리했다. 기계 목록부터 맞춰 보자.
 
 전문가 칼럼 · 로스터·머신 전기
@@ -1058,7 +1058,7 @@ URL: https://store.yangsimlab.com/columns/coffee-shop/
 ## 술집화재보험
 
 URL: https://store.yangsimlab.com/columns/pub/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 술집화재보험, 저녁 주방부터 새벽 마감까지 시간대별 위험과 취한 손님이 다쳤을 때 대응 다섯 단계를 정리했습니다. 우리 가게 시간표에 대입해 보세요.
 
 전문가 칼럼 · 심야·취객 사고
@@ -1319,7 +1319,7 @@ URL: https://store.yangsimlab.com/columns/pilates/
 ## 요가원화재보험
 
 URL: https://store.yangsimlab.com/columns/yoga/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 요가원화재보험, 캔들과 인센스, 핫요가 바닥 난방과 온풍기까지 하루 수업 시간표를 따라 불씨를 찾고 보험 항목을 정리했습니다. 우리 요가원 증권을 점검해 보세요.
 
 전문가 칼럼 · 요가원
@@ -1475,7 +1475,7 @@ URL: https://store.yangsimlab.com/columns/taekwondo/
 ## 피부관리실화재보험
 
 URL: https://store.yangsimlab.com/columns/skin-care/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 피부관리실화재보험, 온장고·왁스 워머·온열 매트 같은 관리 기기의 화재 손해와 시설 사고 배상, 보장 밖인 시술 사고를 나눠 정리했어요. 우리 관리실 증권을 점검해 보세요.
 
 전문가 칼럼 · 피부관리실
@@ -3140,7 +3140,7 @@ URL: https://store.yangsimlab.com/columns/landlord-vs-lessee-liability/
 ## 시설배상책임과 전문인배상책임 차이
 
 URL: https://store.yangsimlab.com/columns/facility-vs-professional-liability/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 시설배상책임과 전문인배상책임 차이, 미용실·피부관리실·약국에서 시설 때문에 다친 사고와 시술·조제 자체의 손해를 나누고 기준을 정리했습니다. 증권 두 칸을 확인하세요.
 
 전문가 칼럼 · 공간의 사고와 손끝의 사고
@@ -3193,7 +3193,7 @@ URL: https://store.yangsimlab.com/columns/facility-vs-professional-liability/
 ## 겨울철 동파 누수와 상가 배상책임
 
 URL: https://store.yangsimlab.com/columns/winter-pipe-burst/
-수정일: 2026-10-29
+수정일: 2026-11-23
 요약: 겨울철 동파 누수와 상가 배상책임, 터진 배관이 아래층 가게를 적셨을 때 누가 배상하는지와 화재보험·배상책임의 누수 범위를 정리했습니다. 확인해 보세요.
 
 전문가 칼럼 · 계절·겨울
